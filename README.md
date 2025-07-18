@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Prashast Saxena, a Computer Science Engineering student with a strong passion for software development, artificial intelligence, and problem-solving. </h1>
-<h1>I enjoy working with MERN stack (MongoDB, Express.js, React.js, Node.js) to build modern, responsive, and scalable web applications.  I'm also keen on enhancing my knowledge of multithreading, data structures, and algorithms.</h1>
+<p>Hi 👋, I'm Prashast Saxena, a Computer Science Engineering student with a strong passion for software development, artificial intelligence, and problem-solving. </p>
+<p>I enjoy working with MERN stack (MongoDB, Express.js, React.js, Node.js) to build modern, responsive, and scalable web applications.  I'm also keen on enhancing my knowledge of multithreading, data structures, and algorithms.</p>
 <p>Aspiring Full-Stack Developer | Machine Learning Enthusiast | Future AI Innovator 🚀</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
